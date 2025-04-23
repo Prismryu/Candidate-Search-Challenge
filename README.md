@@ -1,5 +1,47 @@
 # React + TypeScript + Vite
 
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
+## Description
+
+ Candidate search application that calls the GitHub API and renders data in the browser.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
+## Installation
+
+? How should someone install your project? Clone the repository from GitHub and install the required packages using the command below:          npm install
+
+## Usage
+
+Run "npm run dev" in the terminal or use the link provided to access the website.
+
+## License
+
+This application is covered under the [MIT](https://opensource.org/licenses/MIT) license.
+
+## Contributing
+
+For contributions, contact user Prismryu. 
+
+## Tests
+
+Use the link provided to test: https://candidate-search-f99p.onrender.com
+
+## Questions
+
+If you have any questions, feel free to reach out:
+
+- GitHub: [Prismryu](https://github.com/Prismryu)
+- Email: Guyrunby@gmail.com
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
